@@ -1,0 +1,66 @@
+{
+    "books":[
+        {   "id":1,
+            "title":"Book Name1",
+            "imageUrl":"https://media.istockphoto.com/photos/bible-picture-id182671885?b=1&k=20&m=182671885&s=170667a&w=0&h=8zvjnwCLQ7yd1iSTWTJnhO07Ch9kLYU8Pkd8JosV-Zw=",
+            "description":"Book desc",
+            "reviews":[
+               "good","best","average"
+            ],
+            "author":"Book Author1",
+            "price": 1234,
+            "section": "History",
+            "isbnNumber": 1234567
+         },
+
+         {  "id":2,
+            "title":"Book Name2",
+            "imageUrl":"https://media.istockphoto.com/photos/bible-picture-id182671885?b=1&k=20&m=182671885&s=170667a&w=0&h=8zvjnwCLQ7yd1iSTWTJnhO07Ch9kLYU8Pkd8JosV-Zw=",
+            "description":"Book desc",
+            "reviews":[
+                "good","best","average"
+            ],
+            "author":"Book Author2",
+            "price": 12345,
+            "section": "Mytery",
+            "isbnNumber": 1234567
+         },
+         {  "id":3,
+            "title":"Book Name3",
+            "imageUrl":"https://media.istockphoto.com/photos/bible-picture-id182671885?b=1&k=20&m=182671885&s=170667a&w=0&h=8zvjnwCLQ7yd1iSTWTJnhO07Ch9kLYU8Pkd8JosV-Zw=",
+            "description":"Book desc",
+            "reviews":[
+                "good","best","average"
+            ],
+            "author":"Book Author3",
+            "price": 12346,
+            "section": "Mythology",
+            "isbnNumber": 1234567
+         },
+         {  "id":4,
+            "title":"Book Name4",
+            "imageUrl":"https://media.istockphoto.com/photos/bible-picture-id182671885?b=1&k=20&m=182671885&s=170667a&w=0&h=8zvjnwCLQ7yd1iSTWTJnhO07Ch9kLYU8Pkd8JosV-Zw=",
+            "description":"Book desc",
+            "reviews":[
+                "good","best","average"
+            ],
+            "author":"Book Author4",
+            "price": 12342,
+            "section": "Technology",
+            "isbnNumber": 1234567
+         },
+         {  "id":5,
+            "title":"Book Name5",
+            "imageUrl":"https://media.istockphoto.com/photos/bible-picture-id182671885?b=1&k=20&m=182671885&s=170667a&w=0&h=8zvjnwCLQ7yd1iSTWTJnhO07Ch9kLYU8Pkd8JosV-Zw=",
+            "description":"Book desc",
+            "reviews":[
+                "good","best","average"
+            ],
+            "author":"Book Author4",
+            "price": 12342,
+            "section": "Technology",
+            "isbnNumber": 123
+         }
+
+        ]    
+}
